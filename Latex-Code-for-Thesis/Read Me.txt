@@ -1,0 +1,1 @@
+Run the .tex file in any tex compiler and generate pdf accordingly.
